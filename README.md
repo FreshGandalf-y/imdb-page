@@ -1,1 +1,1 @@
-In this Git, i´ve bin hosting my personal imdb-Site for my raspberrypi in my home-Network. 
+In this Git, i´ve bin hosting my personal imdb-page for my raspberrypi in my home-Network. 
