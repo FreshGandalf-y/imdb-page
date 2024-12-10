@@ -58,6 +58,7 @@ input {
     white-space: nowrap;
     display: inline-block;
     height: 270px;
+    width: 100%
 }
 
 #pic {
